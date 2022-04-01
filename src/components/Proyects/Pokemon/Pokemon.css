@@ -1,0 +1,25 @@
+.container{
+    background-color: black;
+    color:white;
+}
+.desccontainer{
+    display:flex;
+   flex-direction: row;
+    padding: 5px;
+}
+.title ,.description{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+padding:15px
+}
+
+
+.textdesc{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+padding: 15px;
+}
